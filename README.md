@@ -134,3 +134,7 @@ To install the latest version of swifter:
 [ehunting@stanford.edu](ehunting@stanford.edu)
 
 [Stanford Block Lab](https://www.stanfordblocklab.org)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/erikahunting/white-shark-paina/HEAD)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/erikahunting/white-shark-paina/HEAD
