@@ -128,4 +128,5 @@ To install the latest version of swifter:
 [ehunting@stanford.edu](ehunting@stanford.edu)
 ### Contributing and Contact
 [ehunting@stanford.edu](ehunting@stanford.edu)
+
 [Stanford Block Lab](https://www.stanfordblocklab.org)
