@@ -24,6 +24,7 @@ tag data.
 #### Python
 Install the latest version of Python for your operating 
 system [here](https://www.python.org/downloads/release/python-3105/).
+
 #### Anaconda, NumPy, and Pandas
 Pandas has many dependencies that are may be time-comsuming
 to keep track of. Thus, installing pandas and the rest of 
@@ -55,6 +56,7 @@ Anaconda if you decide (just delete that folder).
 If you do not wish to use Anaconda (though it is strongly 
 recommended), you can install Pandas using Miniconda or 
 PyPI. Details and dependencies be found [here](https://pandas.pydata.org/docs/getting_started/install.html).
+
 #### Jupyter Notebook
 If you have downloaded Anaconda, Jupyter Notebook has 
 already been installed. If you are not using Anaconda, 
@@ -68,6 +70,7 @@ To run the notebook:
 ```````
 [jupyter notebook]
 ```````
+
 #### Matplotlib and Seaborn
 Seaborn is a Python data visualization library based on 
 matplotlib. It provides a high-level interface for drawing 
@@ -95,6 +98,7 @@ The library is also included as part of the Anaconda distribution:
 ```````
 [conda install seaborn]
 ```````
+
 #### Astral V2.2 and pytz
 Astral is a python package for calculating the times of 
 various aspects of the sun and phases of the moon. 
