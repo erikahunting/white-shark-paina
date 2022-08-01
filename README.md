@@ -1,4 +1,5 @@
-## White Shark Pa'ina Project
+## White Shark Pa'ina Project [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/erikahunting/white-shark-paina/HEAD)
+
 Using data from recovered PSAT tags and estimated 
 geolocation from individuals of the North Eastern Pacific 
 white shark population, this script analyzes the diving 
@@ -134,7 +135,3 @@ To install the latest version of swifter:
 [ehunting@stanford.edu](ehunting@stanford.edu)
 
 [Stanford Block Lab](https://www.stanfordblocklab.org)
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/erikahunting/white-shark-paina/HEAD)
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/erikahunting/white-shark-paina/HEAD
