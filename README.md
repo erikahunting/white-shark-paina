@@ -1,4 +1,5 @@
 ## White Shark Pa'ina Project
+
 Using data from recovered PSAT tags and estimated 
 geolocation from individuals of the North Eastern Pacific 
 white shark population, this script analyzes the diving 
@@ -9,6 +10,7 @@ migration and stayed for ~3 months. Using statistical
 analysis and time series techniques, it searches for 
 predicatable dive patterns from high-resolution archival
 tag data.
+
 ## Getting Started
 ### Requirements
 - [Python 3.10](https://www.python.org) or later
