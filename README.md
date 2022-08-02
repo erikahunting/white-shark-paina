@@ -64,13 +64,13 @@ If you have downloaded Anaconda, Jupyter Notebook has
 already been installed. If you are not using Anaconda, 
 install the classic Jupyter Notebook by running:
 ```````
-[pip install notebook]
+pip install notebook
 ```````
 in your terminal or other command-line shell.
 
 To run the notebook:
 ```````
-[jupyter notebook]
+jupyter notebook
 ```````
 
 #### Matplotlib and Seaborn
@@ -81,24 +81,24 @@ have not downloaded Anaconda (which has installed Matplotlib
 for you), Matplotlib releases are available as wheel packages 
 for macOS, Windows and Linux on [PyPI](https://pypi.org/project/matplotlib/). Install it using pip:
 ```````
-[python -m pip install -U pip]
-[python -m pip install -U matplotlib]
+python -m pip install -U pip
+python -m pip install -U matplotlib
 ```````
 If this command results in Matplotlib being compiled from 
 source and there's trouble with the compilation, you can add
 ```````
-[--prefer-binary]
+--prefer-binary
 ```````
 to select the newest version of Matplotlib for which there 
 is a precompiled wheel for your OS and Python.
 
 Official releases of seaborn can then be installed from [PyPI](https://pypi.org/project/seaborn/):
 ```````
-[pip install seaborn]
+pip install seaborn
 ```````
 The library is also included as part of the Anaconda distribution:
 ```````
-[conda install seaborn]
+conda install seaborn
 ```````
 
 #### Astral V2.2 and pytz
@@ -106,12 +106,12 @@ Astral is a python package for calculating the times of
 various aspects of the sun and phases of the moon. 
 Install Astral V2.2:
 ```````
-[pip install astral]
+pip install astral
 ```````
 Pytz is a Python package for world timezone definitions, 
 modern and historical. Install the latest version of pytz:
 ```````
-[pip install pytz]
+pip install pytz
 ```````
 ## Options
 #### Swifter
@@ -121,7 +121,7 @@ dataframe or series in the fastest available manner and
 will dramatically decrease code runtime.
 To install the latest version of swifter:
 ```````
-[pip install swifter]
+pip install swifter
 ```````
 ## Resources
 ### Articles, Tutorials, ect.
